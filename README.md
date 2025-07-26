@@ -24,7 +24,19 @@ Welcome to **Pixel Perfect Designs** - where creativity meets precision! We spec
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PixelPerfectDesigns&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPerfectDesigns&layout=compact&theme=radical&hide_border=true)
 
-## 🌟 Featured Projects
+## 🌟 Featured Project: 
+
+### 🔥 Bottini Fuel Website Clone
+
+[![Live Demo](https://img.shields.io/badge/🌐_View_Live-blue?style=for-the-badge)](https://PixelPerfectDesigns.github.io/bottini-fuel-clone) [![GitHub](https://img.shields.io/badge/📂_Source-black?style=for-the-badge&logo=github)](https://github.com/PixelPerfectDesigns/bottini-fuel-clone)
+
+**Enterprise-level front-end showcase** featuring pixel-perfect design recreation, modern CSS architecture (2000+ documented lines), WCAG 2.1 AA accessibility compliance, and comprehensive documentation. Built with HTML5, CSS3, and vanilla JavaScript.
+
+**Key Features:** Responsive design • Performance optimization • Accessibility compliance • Professional documentation
+
+---
+
+## 🔥 Featured Portfolio Projects
 
 ### 🐠 Keith's Aquascaping Services
 A beautiful, responsive website for an aquascaping business featuring:
